@@ -1,0 +1,10 @@
+C:\Users\oztur\source\repos\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\TcKimlikKontrol.csproj.AssemblyReference.cache
+C:\Users\oztur\source\repos\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\TcKimlikKontrol.Form1.resources
+C:\Users\oztur\source\repos\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\TcKimlikKontrol.Properties.Resources.resources
+C:\Users\oztur\source\repos\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\TcKimlikKontrol.csproj.GenerateResource.cache
+C:\Users\oztur\source\repos\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\TcKimlikKontrol.csproj.CoreCompileInputs.cache
+C:\Users\oztur\source\repos\TcKimlikKontrol\TcKimlikKontrol\bin\Debug\TcKimlikKontrol.exe.config
+C:\Users\oztur\source\repos\TcKimlikKontrol\TcKimlikKontrol\bin\Debug\TcKimlikKontrol.exe
+C:\Users\oztur\source\repos\TcKimlikKontrol\TcKimlikKontrol\bin\Debug\TcKimlikKontrol.pdb
+C:\Users\oztur\source\repos\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\TcKimlikKontrol.exe
+C:\Users\oztur\source\repos\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\TcKimlikKontrol.pdb
